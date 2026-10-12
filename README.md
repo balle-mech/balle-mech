@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/balle-mech/balle-mech/">
-    <img src="https://komarev.com/ghpvc/?username=balle-mech" alt="balle-mech" />
+    <img height="20" src="https://visitor-badge.laobi.icu/badge?page_id=balle-mech.balle-mech" alt="visitors" />
   </a>
   <a href="https://github.com/balle-mech">
     <img height="20" src="https://img.shields.io/github/followers/balle-mech?label=follow&logo=github&style=flat" />
@@ -12,9 +12,6 @@
   </a>
   <a href="https://qiita.com/ballemech">
     <img height="20" src="https://qiita-badge.apiapi.app/s/ballemech/contributions.svg" />
-  </a>
-  <a href="https://x.com/ballemech">
-    <img height="20" src="https://img.shields.io/badge/-@ballemech-000000?logo=x&style=flat" />
   </a>
 </p>
 
@@ -28,7 +25,7 @@
 
 **Web / App**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,fastapi,java,rails,jest,swift,supabase&perline=10" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,vite,tailwind,java,rails,jest&perline=10" /></a>
 
 **Infra / Tools**
 
@@ -48,10 +45,10 @@ Last Updated on 10/12/2026, 1:14:02 PM</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=balle-mech)](https://github.com/ryo-ma/github-profile-trophy)
 
-![profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balle-mech&theme=github)
+![profile details](./profile-summary-card-output/github/0-profile-details.svg)
 
 <p align="left">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=balle-mech&theme=github" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=balle-mech&theme=github" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=balle-mech&theme=github&utcOffset=9" />
+  <img height="180" src="./profile-summary-card-output/github/1-repos-per-language.svg" />
+  <img height="180" src="./profile-summary-card-output/github/3-stats.svg" />
+  <img height="180" src="./profile-summary-card-output/github/4-productive-time.svg" />
 </p>
