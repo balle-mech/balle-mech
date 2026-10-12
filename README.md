@@ -43,8 +43,6 @@ Last Updated on 10/12/2026, 1:14:02 PM</p>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balle-mech&layout=compact" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=balle-mech)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![profile details](./profile-summary-card-output/github/0-profile-details.svg)
 
 <p align="left">
