@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="left">
   <a href="https://github.com/balle-mech/balle-mech/">
     <img height="20" src="https://visitor-badge.laobi.icu/badge?page_id=balle-mech.balle-mech" alt="visitors" />
